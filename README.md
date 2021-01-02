@@ -4,13 +4,11 @@
 ```
 npm init
 
-npm install  -D typescript @types/node
+npm install -D typescript @types/node eslint
 
-npm install -D eslint
+npm install express connect
 
-npm install express
-
-npm install -D @types/express
+npm install -D @types/express @types/connect
 ```
 
 ## Typescript初期化
