@@ -1,6 +1,6 @@
 # sample_typescript
 
-## インストール
+## インストールしたもの
 ```
 npm init
 
@@ -16,6 +16,11 @@ npm install -D @types/express
 ## Typescript初期化
 ```
 tsc --init
+```
+
+## リポジトリ使用時の初期設定
+```
+npm install
 ```
 
 ## フォーマット
